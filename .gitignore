@@ -1,0 +1,28 @@
+# No tmp file.
+*.pyc
+*.egg-info
+
+# No tmp.
+__pycache__
+tmp/
+build/
+dist/
+.DS_Store
+.idea/
+.cache/
+
+# No data
+*.data
+
+# Coverage
+.coverage
+htmlcov/
+
+# No certification.
+*.pem
+*.cert
+*.crt
+*.csr
+*.p12
+*.key
+*.certSigningRequest
